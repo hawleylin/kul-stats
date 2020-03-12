@@ -1,2 +1,2 @@
-# Basic concepts in Bayesian methods
+# Initial page
 

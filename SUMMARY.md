@@ -1,10 +1,16 @@
 # Table of contents
 
-* [Basic concepts in Bayesian methods](README.md)
-* [1. Modes of statistical inference](untitled-1/README.md)
-  * [1.1 The frequentist approach: a critical reﬂection](untitled-1/1.1-the-frequentist-approach-a-critical-re-ection.md)
-  * [1.2 Statistical inference based on the likelihood function](untitled-1/1.2-statistical-inference-based-on-the-likelihood-function.md)
-  * [1.3 The Bayesian approach: some basic ideas](untitled-1/1.3-the-bayesian-approach-some-basic-ideas.md)
-* [2. Bayes theorem: computing the posterior distribution](untitled/README.md)
-  * [Untitled](untitled/untitled.md)
+* [Initial page](README.md)
+* [Part I. Introduction to Clinical Trials](1.-introduction-to-clinical-trials/README.md)
+  * [1.1 Definitions and Classifications](1.-introduction-to-clinical-trials/1.1-definitions-and-classifications.md)
+  * [1.2 Examples](1.-introduction-to-clinical-trials/1.2-examples.md)
+  * [1.3-1.5 Why and how perform CTs](1.-introduction-to-clinical-trials/1.3-1.5.md)
+  * [2.1-2.3 Clinical Development、Plan and TPP](1.-introduction-to-clinical-trials/2.1-2.3.md)
+  * [2.4-2.5 Clinical Trial Phases](1.-introduction-to-clinical-trials/2.4-2.5-clinical-trial-phases.md)
+  * [3.1 Key steps: From planning to disclosure](1.-introduction-to-clinical-trials/3.1-key-steps-from-planning-to-disclosure.md)
+  * [3.3 The key documents](1.-introduction-to-clinical-trials/3.3-the-key-documents.md)
+  * [4 Regulations & Guidelines](1.-introduction-to-clinical-trials/4-regulations-and-guidelines.md)
+* [Part II.](2.-key-concept/README.md)
+  * [3.1 Introduction](2.-key-concept/2.1-study-designs.md)
+  * [Type of confirmatory trials](2.-key-concept/type-of-confirmatory-trials.md)
 
