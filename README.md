@@ -1,2 +1,2 @@
-# kul-stats
-recording the study life in KUL
+# Basic concepts in Bayesian methods
+
