@@ -10,7 +10,8 @@
   * [3.1 Key steps: From planning to disclosure](1.-introduction-to-clinical-trials/3.1-key-steps-from-planning-to-disclosure.md)
   * [3.3 The key documents](1.-introduction-to-clinical-trials/3.3-the-key-documents.md)
   * [4 Regulations & Guidelines](1.-introduction-to-clinical-trials/4-regulations-and-guidelines.md)
-* [Part II.](2.-key-concept/README.md)
-  * [3.1 Introduction](2.-key-concept/2.1-study-designs.md)
-  * [Type of confirmatory trials](2.-key-concept/type-of-confirmatory-trials.md)
+* [Part II. Key Concepts](2.-key-concept/README.md)
+  * [Chapter 1: Study Designs](2.-key-concept/2.1-study-designs.md)
+  * [Chapter 2: Type of confirmatory trials](2.-key-concept/type-of-confirmatory-trials.md)
+  * [Untitled](2.-key-concept/untitled.md)
 
