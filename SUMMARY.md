@@ -13,5 +13,6 @@
 * [Part II. Key Concepts](2.-key-concept/README.md)
   * [Chapter 1: Study Designs](2.-key-concept/2.1-study-designs.md)
   * [Chapter 2: Type of confirmatory trials](2.-key-concept/type-of-confirmatory-trials.md)
-  * [Untitled](2.-key-concept/untitled.md)
+  * [Chapter 3: Multiplicity](2.-key-concept/chapter-3-multiplicity.md)
+  * [Chapter 4: Potential sources of Bias](2.-key-concept/untitled.md)
 

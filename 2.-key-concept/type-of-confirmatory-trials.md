@@ -130,11 +130,11 @@ Characteristics:
 
 A surrogate endpoint may not be of direct practical importance to the patient. A given disease process may have multiple markers that could be used as the surrogate endpoint. Or, more than one could be used.
 
-![Examples](../.gitbook/assets/image%20%2843%29.png)
+![Examples](../.gitbook/assets/image%20%2869%29.png)
 
 ## 2.2 Reminder on Hypothesis Testing
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 The study is considered a success if we can reject Ho or we conclude Ha
 
@@ -148,13 +148,13 @@ The sponsor wants to minimize the type II error: probability not to be able to r
 
 ### decision criterion 1：based on a range of observed value of the estimated parameter
 
-![type I error](../.gitbook/assets/image%20%2846%29.png)
+![type I error](../.gitbook/assets/image%20%2877%29.png)
 
 Under the assumption that RR=1, the distribution of log\(RR\) is approximately normally distributed with 0 as mean. One can therefore define a range of value RR&gt;X so that the probability to have RR&gt;X when RR=1 is equal to α, type I error.
 
 Note that for RR &lt; 1, the distribution curve will switch to the left and therefore the probability to have RR&gt; x is less than alpha for any true value of RR &lt; 1. The type I error is therefore well controlled to be below α
 
-![Type II error](../.gitbook/assets/image%20%2829%29.png)
+![Type II error](../.gitbook/assets/image%20%2844%29.png)
 
 The type II error when RR=Y is the probability to observe RR&lt;=X when the true RR=Y. The power, when the true relative risk RR=Y, is the probability to observe RR&gt;x when RR=Y.
 
@@ -162,7 +162,7 @@ It is easy to understand how the power increases with the sample size. Indeed wi
 
 ### decision criterion 2：based on p-value
 
-![one sided p-value](../.gitbook/assets/image%20%2819%29.png)
+![one sided p-value](../.gitbook/assets/image%20%2826%29.png)
 
 P-value is defined as the maximum probability to observe a value further distant from H0 than the observed value for true RR belonging to H0. In the above example, it is the probability that
 
@@ -170,13 +170,13 @@ P-value is defined as the maximum probability to observe a value further distant
 
 It is easy to see that this decision criterion will lead to the same conclusion as the decision criterion based on a range of observed $$\widetilde{RR}$$ : if the $$Pr(\widetilde{RR} \geq \widetilde{RR}_{obs} | H_0)$$ is higher than α, the $$\widetilde{RR}_{obs}$$ is on the left side of the critical x value.
 
-![2 sided-p-value](../.gitbook/assets/image%20%289%29.png)
+![2 sided-p-value](../.gitbook/assets/image%20%2813%29.png)
 
 ### decision criterion 3：based on confidence interval for the observed estimated parameter
 
 A confidence interval \(CI\) is an observed interval, calculated from the observations and therefore varying from one observation to another. It has the property to include the parameter of interest with a probability equals to the confidence level
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 With the above example looking at the relative risk, a 95% CI for RR will cover the true value of the relative risk in 95% of the cases.
 
@@ -190,13 +190,13 @@ Accordingly a decision based on the \(1-2α\) CI being fully outside of the null
 
 ## 2.3 [Superiority/non-inferiority/difference/equivalence](https://zhuanlan.zhihu.com/p/26588986)
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 ### Superiority\(one sided\)
 
 In a superiority objective, the null hypothesis contains and is bounded by the identity between groups. 
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 {% hint style="danger" %}
 The null hypothesis parameter space stops when groups are identical.
@@ -208,7 +208,7 @@ Warning: Superiority does not necessarily have clinical relevance.
 
 In a substantial superiority objective, the null hypothesis contains the identity between groups and is bounded by a value different from the identity between groups.
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 {% hint style="danger" %}
 The null hypothesis parameter space stops when groups are identical.
@@ -220,7 +220,7 @@ Warning: Superiority does not necessarily have clinical relevance.
 
 In a non-inferiority objective the identity between groups is excluded from the null hypothesis. In other words, it aims to demonstrate that the investigational product is not worse than the control by more than a pre-specified \(small\) amount.--在非劣效性目标中，组间的同一性被排除在原假设之外。换句话说，它的目的是证明研究的产品不会比对照组差超过预先指定的\(小\)量。
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 The two main reasons of using non-inferiority trials are:
 
@@ -229,7 +229,7 @@ The two main reasons of using non-inferiority trials are:
 
 ### Difference\(two sided\)
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 {% hint style="danger" %}
 The null hypothesis parameter space is ‘groups are identical’.
@@ -239,7 +239,7 @@ Warning: Difference does not have necessarily clinical relevance.
 
 ### Equivalence\(two sided\)
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 {% hint style="danger" %}
 The null hypothesis parameter space excludes ‘groups are identical’ and is bounded on two sides.
@@ -284,7 +284,7 @@ On the other hand, the population to consider for non-inferiority is both
 
 ### Impact on sample size--Different hypothesis tests require different sample size!
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 Conclusion of the example:
 
